@@ -98,43 +98,43 @@ Most clinics and hospitals still rely on **manual appointment books, phone calls
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/patient/01-register.png" alt="Register Page" width="400"/>
+      <img src="screenshots/patient/01-register.PNG" alt="Register Page" width="400"/>
       <br/><b>Register</b>
     </td>
     <td align="center">
-      <img src="screenshots/patient/02-login.png" alt="Login Page" width="400"/>
+      <img src="screenshots/patient/02-login.PNG" alt="Login Page" width="400"/>
       <br/><b>Login</b>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="screenshots/patient/03-hero.png" alt="Home / Hero Section" width="820"/>
+      <img src="screenshots/patient/03-herosection.PNG" alt="Home / Hero Section" width="820"/>
       <br/><b>Home — Hero Section</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="screenshots/patient/04-doctors.png" alt="Browse Doctors" width="400"/>
+      <img src="screenshots/patient/04-browserdoctorbyspecliaity.PNG" alt="Browse Doctors" width="400"/>
       <br/><b>Browse Doctors by Speciality</b>
     </td>
     <td align="center">
-      <img src="screenshots/patient/05-appointment-booking.png" alt="Book Appointment" width="400"/>
+      <img src="screenshots/patient/05-appointmentbooking.PNG" alt="Book Appointment" width="400"/>
       <br/><b>Appointment Booking</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="screenshots/patient/06-my-appointments.png" alt="My Appointments" width="400"/>
+      <img src="screenshots/patient/06-myappointment.png" alt="My Appointments" width="400"/>
       <br/><b>My Appointments</b>
     </td>
     <td align="center">
-      <img src="screenshots/patient/07-prescription.png" alt="Prescription View" width="400"/>
+      <img src="screenshots/patient/07-Digitalprescription.PNG" alt="Prescription View" width="400"/>
       <br/><b>Digital Prescription</b>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="screenshots/patient/08-profile.png" alt="Patient Profile" width="820"/>
+      <img src="screenshots/patient/08-profile.PNG" alt="Patient Profile" width="820"/>
       <br/><b>Patient Profile</b>
     </td>
   </tr>
