@@ -98,7 +98,7 @@ Most clinics and hospitals still rely on **manual appointment books, phone calls
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/patient/01-register.PNG" alt="Register Page" width="400"/>
+      <img src="Screenshots/register.PNG" alt="Register Page" width="400"/>
       <br/><b>Register</b>
     </td>
     <td align="center">
