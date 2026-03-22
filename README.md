@@ -28,13 +28,7 @@
 
 - [🌟 Why Prescripto?](#-why-prescripto)
 - [✨ Features](#-features)
-  - [🧑‍⚕️ Patient Portal](#️-patient-portal)
-  - [🩺 Doctor Portal](#-doctor-portal)
-  - [🛡️ Admin Portal](#️-admin-portal)
 - [📸 Screenshots](#-screenshots)
-  - [Patient Portal](#️-patient-portal-1)
-  - [Doctor Portal](#-doctor-portal-1)
-  - [Admin Portal](#️-admin-portal-1)
 - [🛠 Tech Stack](#-tech-stack)
 - [📁 Project Structure](#-project-structure)
 - [⚙️ Installation & Setup](#️-installation--setup)
@@ -505,36 +499,6 @@ APP_PASSWORD=your_16_digit_gmail_app_password
 | `POST` | `/delete-appointment-history` | ✅ aToken | Delete history |
 | `POST` | `/cancel-appointment` | ✅ aToken | Cancel appointment |
 | `GET` | `/dashboard` | ✅ aToken | Platform stats |
-
----
-
-## 🌐 Live Demo
-
-| Portal | Link |
-|--------|------|
-| 🏥 Patient Frontend | [prescripto-frontend.vercel.app](#) |
-| 🛡️ Admin & Doctor Panel | [prescripto-admin.vercel.app](#) |
-| ⚙️ Backend API | [prescripto-api.vercel.app](#) |
-
-> Replace `#` with your actual deployed Vercel URLs.
-
----
-
-## 🚀 Deployment (Vercel)
-
-`vercel.json` is already configured in all three folders.
-
-```bash
-npm install -g vercel
-
-# 1. Deploy backend first
-cd backend && vercel --prod
-
-# 2. Update VITE_BACKEND_URL in frontend/.env and admin/.env
-# 3. Then deploy both
-cd ../frontend && vercel --prod
-cd ../admin && vercel --prod
-```
 
 ---
 
