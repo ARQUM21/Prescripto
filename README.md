@@ -525,15 +525,11 @@ Prescripto is architected with scalability in mind. Here is the planned evolutio
 - [ ] **Video Consultation** — WebRTC-based telemedicine
 - [ ] **Real-time Chat** — In-app messaging between patient and doctor
 - [ ] **Multi-language Support** — Urdu, Arabic, and regional languages
-- [ ] **Multi-tenant SaaS** — Each hospital gets their own isolated instance
 
 ### 🔒 Phase 5 — Compliance & Enterprise Security
-- [ ] **Role-Based Access Control (RBAC)** — Nurse, Receptionist, Head Doctor roles
 - [ ] **Audit Logs** — Full activity logs for regulatory compliance
 - [ ] **Data Export** — Patient data as PDF / Excel reports
 - [ ] **HIPAA / HL7 FHIR Compliance** — International healthcare standards
-- [ ] **Two-Factor Authentication (2FA)** — For doctors and admin accounts
-- [ ] **End-to-End Encryption** — For all patient data and communications
 
 ---
 
