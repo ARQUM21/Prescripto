@@ -180,31 +180,31 @@ Most clinics and hospitals still rely on **manual appointment books, phone calls
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/admin/14-admin-login.png" alt="Admin Login" width="400"/>
+      <img src="./screenshots/Adminlogin.PNG" alt="Admin Login" width="400"/>
       <br/><b>Admin Login</b>
     </td>
     <td align="center">
-      <img src="screenshots/admin/15-admin-dashboard.png" alt="Admin Dashboard" width="400"/>
+      <img src="./screenshots/admindashboard.PNG" alt="Admin Dashboard" width="400"/>
       <br/><b>Admin Dashboard</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="screenshots/admin/16-add-doctor.png" alt="Add Doctor" width="400"/>
+      <img src="./screenshots/adddoctor.PNG" alt="Add Doctor" width="400"/>
       <br/><b>Add Doctor</b>
     </td>
     <td align="center">
-      <img src="screenshots/admin/17-doctors-list.png" alt="Doctors List" width="400"/>
+      <img src="./screenshots/doctorlist.PNG" alt="Doctors List" width="400"/>
       <br/><b>Doctors List</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="screenshots/admin/18-all-appointments.png" alt="All Appointments" width="400"/>
+      <img src="./screenshots/allappointment.PNG" alt="All Appointments" width="400"/>
       <br/><b>All Appointments</b>
     </td>
     <td align="center">
-      <img src="screenshots/admin/19-appointment-history.png" alt="Appointment History" width="400"/>
+      <img src="./screenshots/appointmenthistory.PNG" alt="Appointment History" width="400"/>
       <br/><b>Appointment History</b>
     </td>
   </tr>
