@@ -20,18 +20,33 @@
 
 > **Built for modern clinics & hospitals** — A production-ready, full-stack appointment booking and prescription management platform with dedicated portals for Patients, Doctors, and Admins.
 
-<br/>
-
-[🚀 Live Demo](#-live-demo) &nbsp;•&nbsp;
-[✨ Features](#-features) &nbsp;•&nbsp;
-[📸 Screenshots](#-screenshots) &nbsp;•&nbsp;
-[🛠 Tech Stack](#-tech-stack) &nbsp;•&nbsp;
-[📁 Project Structure](#-project-structure) &nbsp;•&nbsp;
-[⚙️ Setup Guide](#️-installation--setup) &nbsp;•&nbsp;
-[🔌 API Reference](#-api-reference) &nbsp;•&nbsp;
-[🔮 Future Roadmap](#-future-roadmap)
-
 </div>
+
+---
+
+## 📋 Table of Contents
+
+- [🌟 Why Prescripto?](#-why-prescripto)
+- [✨ Features](#-features)
+  - [🧑‍⚕️ Patient Portal](#️-patient-portal)
+  - [🩺 Doctor Portal](#-doctor-portal)
+  - [🛡️ Admin Portal](#️-admin-portal)
+- [📸 Screenshots](#-screenshots)
+  - [Patient Portal](#️-patient-portal-1)
+  - [Doctor Portal](#-doctor-portal-1)
+  - [Admin Portal](#️-admin-portal-1)
+- [🛠 Tech Stack](#-tech-stack)
+- [📁 Project Structure](#-project-structure)
+- [⚙️ Installation & Setup](#️-installation--setup)
+- [🔐 Environment Variables](#-environment-variables)
+- [🔌 API Reference](#-api-reference)
+- [🌐 Live Demo](#-live-demo)
+- [🚀 Deployment](#-deployment-vercel)
+- [🔮 Future Roadmap](#-future-roadmap)
+- [🙏 Acknowledgements](#-acknowledgements)
+- [🤝 Contributing](#-contributing)
+- [👨‍💻 Author](#-author)
+- [📄 License](#-license)
 
 ---
 
@@ -493,6 +508,36 @@ APP_PASSWORD=your_16_digit_gmail_app_password
 
 ---
 
+## 🌐 Live Demo
+
+| Portal | Link |
+|--------|------|
+| 🏥 Patient Frontend | [prescripto-frontend.vercel.app](#) |
+| 🛡️ Admin & Doctor Panel | [prescripto-admin.vercel.app](#) |
+| ⚙️ Backend API | [prescripto-api.vercel.app](#) |
+
+> Replace `#` with your actual deployed Vercel URLs.
+
+---
+
+## 🚀 Deployment (Vercel)
+
+`vercel.json` is already configured in all three folders.
+
+```bash
+npm install -g vercel
+
+# 1. Deploy backend first
+cd backend && vercel --prod
+
+# 2. Update VITE_BACKEND_URL in frontend/.env and admin/.env
+# 3. Then deploy both
+cd ../frontend && vercel --prod
+cd ../admin && vercel --prod
+```
+
+---
+
 ## 🔮 Future Roadmap
 
 Prescripto is architected with scalability in mind. Here is the planned evolution for clinics and hospitals who want enterprise-grade capabilities:
@@ -533,6 +578,26 @@ Prescripto is architected with scalability in mind. Here is the planned evolutio
 
 ---
 
+## 🙏 Acknowledgements
+
+This project was built with the help of some amazing open-source tools, services, and communities:
+
+- [**React**](https://react.dev) — The UI library that powers all three portals
+- [**Vite**](https://vitejs.dev) — Blazing fast frontend build tool
+- [**Tailwind CSS**](https://tailwindcss.com) — Utility-first CSS framework for rapid UI development
+- [**Express.js**](https://expressjs.com) — Minimal and flexible Node.js web framework
+- [**MongoDB Atlas**](https://www.mongodb.com/atlas) — Cloud-hosted NoSQL database
+- [**Mongoose**](https://mongoosejs.com) — Elegant MongoDB object modeling for Node.js
+- [**Cloudinary**](https://cloudinary.com) — Cloud image storage and delivery
+- [**Nodemailer**](https://nodemailer.com) — Node.js module for sending emails
+- [**JWT**](https://jwt.io) — Secure stateless authentication standard
+- [**Lucide React**](https://lucide.dev) — Beautiful & consistent icon library
+- [**Vercel**](https://vercel.com) — Seamless deployment platform for frontend & backend
+- [**Shields.io**](https://shields.io) — Beautiful README badges
+- The entire **open-source community** whose tools made this project possible 🌍
+
+---
+
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -550,9 +615,15 @@ Prescripto is architected with scalability in mind. Here is the planned evolutio
 **Muhammad Arqum**
 *Full Stack Developer — Building digital solutions for the healthcare industry*
 
-📧 [marqum987@gmail.com](mailto:marqum987@gmail.com) &nbsp;|&nbsp;
-📞 [+92 343 2705821](tel:+923432705821) &nbsp;|&nbsp;
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Arqum-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadarqumtariq/)
+[![Email](https://img.shields.io/badge/Email-marqum987@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marqum987@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+92_343_2705821-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923432705821)
+
 📍 Karachi, Pakistan
+
+<br/>
 
 *Interested in deploying Prescripto for your clinic or hospital? Feel free to reach out!*
 
