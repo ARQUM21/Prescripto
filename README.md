@@ -164,7 +164,7 @@ Most clinics and hospitals still rely on **manual appointment books, phone calls
       <img src="./screenshots/patienthistory.PNG" alt="Patient History" width="400"/>
       <br/><b>Patient History</b>
     </td>
-  </tr>./screenshots/doctorprofile.PNG
+  </tr>
   <tr>
     <td align="center" colspan="2">
       <img src="./screenshots/doctorprofile.PNG" alt="Doctor Profile" width="820"/>
