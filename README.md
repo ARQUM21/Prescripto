@@ -34,8 +34,6 @@
 - [⚙️ Installation & Setup](#️-installation--setup)
 - [🔐 Environment Variables](#-environment-variables)
 - [🔌 API Reference](#-api-reference)
-- [🌐 Live Demo](#-live-demo)
-- [🚀 Deployment](#-deployment-vercel)
 - [🔮 Future Roadmap](#-future-roadmap)
 - [🙏 Acknowledgements](#-acknowledgements)
 - [🤝 Contributing](#-contributing)
