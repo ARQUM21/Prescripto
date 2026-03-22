@@ -98,43 +98,43 @@ Most clinics and hospitals still rely on **manual appointment books, phone calls
 <table>
   <tr>
     <td align="center">
-      <img src="Screenshots/register.PNG" alt="Register Page" width="400"/>
+      <img src="./screenshots/register.PNG" alt="Register Page" width="400"/>
       <br/><b>Register</b>
     </td>
     <td align="center">
-      <img src="screenshots/patient/02-login.PNG" alt="Login Page" width="400"/>
+      <img src="./screenshots/login.PNG" alt="Login Page" width="400"/>
       <br/><b>Login</b>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="screenshots/patient/03-herosection.PNG" alt="Home / Hero Section" width="820"/>
+      <img src="./screenshots/herosection.PNG" alt="Home / Hero Section" width="820"/>
       <br/><b>Home — Hero Section</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="screenshots/patient/04-browserdoctorbyspecliaity.PNG" alt="Browse Doctors" width="400"/>
+      <img src="./screenshots/browserdoctorbyspecliaity.PNG" alt="Browse Doctors" width="400"/>
       <br/><b>Browse Doctors by Speciality</b>
     </td>
     <td align="center">
-      <img src="screenshots/patient/05-appointmentbooking.PNG" alt="Book Appointment" width="400"/>
+      <img src="./screenshots/appointmentbooking.PNG" alt="Book Appointment" width="400"/>
       <br/><b>Appointment Booking</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="screenshots/patient/06-myappointment.png" alt="My Appointments" width="400"/>
+      <img src="./screenshots/myappointment.PNG" alt="My Appointments" width="400"/>
       <br/><b>My Appointments</b>
     </td>
     <td align="center">
-      <img src="screenshots/patient/07-Digitalprescription.PNG" alt="Prescription View" width="400"/>
+      <img src="./screenshots/Digitalprescription.PNG" alt="Prescription View" width="400"/>
       <br/><b>Digital Prescription</b>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="screenshots/patient/08-profile.PNG" alt="Patient Profile" width="820"/>
+      <img src="./screenshots/profile.PNG" alt="Patient Profile" width="820"/>
       <br/><b>Patient Profile</b>
     </td>
   </tr>
