@@ -147,28 +147,28 @@ Most clinics and hospitals still rely on **manual appointment books, phone calls
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/doctor/09-doctor-login.png" alt="Doctor Login" width="400"/>
+      <img src="./screenshots/doctorlogin.PNG" alt="Doctor Login" width="400"/>
       <br/><b>Doctor Login</b>
     </td>
     <td align="center">
-      <img src="screenshots/doctor/10-doctor-dashboard.png" alt="Doctor Dashboard" width="400"/>
+      <img src="./screenshots/doctordashbaord.PNG" alt="Doctor Dashboard" width="400"/>
       <br/><b>Doctor Dashboard</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="screenshots/doctor/11-doctor-appointments.png" alt="Doctor Appointments" width="400"/>
+      <img src="./screenshots/appointmentlist.PNG" alt="Doctor Appointments" width="400"/>
       <br/><b>Appointments List</b>
     </td>
     <td align="center">
-      <img src="screenshots/doctor/12-doctor-profile.png" alt="Doctor Profile" width="400"/>
-      <br/><b>Doctor Profile</b>
+      <img src="./screenshots/patienthistory.PNG" alt="Patient History" width="400"/>
+      <br/><b>Patient History</b>
     </td>
-  </tr>
+  </tr>./screenshots/doctorprofile.PNG
   <tr>
     <td align="center" colspan="2">
-      <img src="screenshots/doctor/13-patient-history.png" alt="Patient History" width="820"/>
-      <br/><b>Patient History</b>
+      <img src="./screenshots/doctorprofile.PNG" alt="Doctor Profile" width="820"/>
+      <br/><b>Doctor Profile</b>
     </td>
   </tr>
 </table>
