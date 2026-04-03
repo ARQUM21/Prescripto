@@ -130,7 +130,7 @@ const AdminContextProvider = (props) => {
       const { data } = await axios.post( backendUrl + '/api/admin/delete-appointment-history', { appointmentId },{ headers: { aToken } })
       if (data.success) {
       toast.success(data.message)
-      getAppointmentsHistory() // List ko refresh karein
+      getAppointmentsHistory() 
        } else {
       toast.error(data.message)
        }
